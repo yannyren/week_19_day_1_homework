@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="Enter_the_sentence">Enter_the_sentence</string>
+    <string name="submit_button">submit_button</string>
+    <string name="click_here">click_here</string>
+    <string name="result">result</string>
+</resources>
